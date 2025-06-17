@@ -94,6 +94,6 @@ Key statistics:
 
 **Harsh Bajpai** <br>
 Master's in Statistical Data Science<br>
-[LinkedIn](www.linkedin.com/in/harsh-bajpai22) <br>
+[LinkedIn](https://www.linkedin.com/in/harsh-bajpai22/) <br>
 
 ---
