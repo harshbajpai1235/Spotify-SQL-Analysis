@@ -8,6 +8,7 @@
   A SQL-based data analysis project on 20,000+ Spotify and Youtube tracks to uncover artist performance, track features, and streaming insights with PostgreSQL. 
 </p>
 
+
 ---
 
 ## 📂 Dataset Overview
