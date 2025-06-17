@@ -1,2 +1,2 @@
 <p align = "center">
-  <img src = "Screenshots/Spotify_image.png" width = "400"/>
+  <img src = "Screenshots/Spotigy_image.png" width = "400"/>
