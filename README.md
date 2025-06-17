@@ -1,5 +1,5 @@
 <p align = "left">
-  <img src = "Screenshots/Spotify_image.png"/>
+  <img src = "Screenshots/Spotify_imagei.png"/>
 </p>
 
 <h1 align="left"> 🎵 Spotify SQL Analysis Project</h1>
