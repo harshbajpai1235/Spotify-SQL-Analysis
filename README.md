@@ -73,11 +73,11 @@ Key statistics:
 
 ---
 ## 🖼️ Screenshots
-| <img src="Screenshots/1.png"> | <img src="Screenshots/2.png"> |
+<img src="Screenshots/1.png">  <img src="Screenshots/2.png"> 
 
-| <img src="Screenshots/3.png"> | <img src="Screenshots/4.png"> |
+ <img src="Screenshots/3.png">  <img src="Screenshots/4.png"> 
 
-| <img src="Screenshots/5.png"> |
+ <img src="Screenshots/5.png"> 
 ---
 
 ## 💡 Key Insights
@@ -89,3 +89,10 @@ Key statistics:
 
 ---
 
+## 🧑‍💻 Author
+
+**Harsh Bajpai** <br>
+Master's in Statistical Data Science<br>
+[LinkedIn](www.linkedin.com/in/harsh-bajpai22) <br>
+
+---
